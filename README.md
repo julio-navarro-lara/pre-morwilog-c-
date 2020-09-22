@@ -9,7 +9,7 @@ At the origin of this code we find the Hommilière (Manhill) system, developed b
 
 ## Dependencies
 
-This software require the NoSQL database WhiteDB. You can find it [here](http://whitedb.org/).
+This software requires the NoSQL database WhiteDB. You can find it [here](http://whitedb.org/).
 
 ## References
 
